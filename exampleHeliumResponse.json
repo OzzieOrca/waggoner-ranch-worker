@@ -1,0 +1,26 @@
+{
+  "app_eui": "D773342A36594779",
+  "dev_eui": "A8610A34321F7704",
+  "devaddr": "00000048",
+  "downlink_url": "https://console.helium.com/api/v1/down/69c68cb1-914c-4ae2-bd02-232fecf8003e/Vs_aOQmliOyenMDE3fiPXPhJXtw4uTa2/72099207-694e-4625-aa02-1eff4a5ddf56",
+  "fcnt": 5,
+  "hotspots": [
+    {
+      "channel": 14,
+      "frequency": 905.0999755859375,
+      "id": "11FJT1mJL862hyCskPwFKQCdW3EgXreDJnau7Q4hSDLj8kh2Ny1",
+      "name": "droll-slate-barracuda",
+      "reported_at": 1592978186,
+      "rssi": -58,
+      "snr": 12.5,
+      "spreading": "SF10BW125",
+      "status": "success"
+    }
+  ],
+  "id": "72099207-694e-4625-aa02-1eff4a5ddf56",
+  "metadata": { "labels": [[Object]] },
+  "name": "Gate",
+  "payload": "AA==",
+  "port": 2,
+  "reported_at": 1592978186
+}

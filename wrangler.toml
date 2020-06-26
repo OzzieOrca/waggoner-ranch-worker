@@ -1,0 +1,6 @@
+name = "waggoner-ranch-worker"
+type = "webpack"
+account_id = "13fccd043ab3fec9f39fa6f1d30314ab"
+routes = ["https://ranch.scottywaggoner.com/uplink", "https://ranch.scottywaggoner.com/downlink"]
+zone_id = "80b3d961b5c78b80381b73d02bf64b52"
+webpack_config = "webpack.config.js"
